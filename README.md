@@ -1,16 +1,6 @@
 
-![screenshot](https://github.com/matvienkoLT/ft_ls/blob/master/Screen%20Shot%202018-10-14%20at%2018.17.44.png)
+[![Watch the video](https://i9.ytimg.com/vi/54R89QOwZ7A/mq1.jpg?sqp=CPzIjd4F&rs=AOn4CLAtapX53Hqq3xDskZrO-Oref_DRvQ)](https://youtu.be/54R89QOwZ7A)
 
-Purpose
+##Purpose
 
-The goal of this project is to discover the system's API, its functions, and the associated data structures, by recoding one of the most used commands among programmers, ls.
-
-## Implemented Options:
- man ls
-
-## Compiling and running
-	make
-	usage: ./ft_ls [-RUTGSacdglostu] [file ...]
-
-## License
-This project is licensed under the GNU General Public License 3.
+The goal of this project is to code an AI for the game of Filler, for which we have a virtual machine.
